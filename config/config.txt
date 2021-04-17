@@ -5,16 +5,16 @@ $include dbconfig.txt
 $include resources.txt
 
 ## Server name: This appears at the top of the screen in-game.
-SERVER_NAME Something
+SERVER_NAME TGMC:RUS
 
 ## Hosted by name for unix platforms.
-HOSTEDBY yournamehere
+HOSTEDBY Pl3aseJust3ndMyPain
 
 ## The title of the main window.
-TITLE Change Me
+TITLE TGMC:RUS
 
 ## Put on byond hub: Uncomment this to put your server on the byond hub.
-#HUB
+HUB
 
 ## Optional URL for faster resource downloading.
 #RESOURCE_URL url
@@ -46,13 +46,13 @@ PROTECT_LEGACY_ADMINS
 PROTECT_LEGACY_RANKS
 
 ## Add your own URLs here.
-#FORUMURL
+FORUMURL https://discord.gg/ZUvSnjfmtT
 #WIKIURL
-#RULESURL
-#DISCORDURL
-#DONATIONURL
-#GITHUBURL
-#BANAPPEALS
+RULESURL https://discord.gg/ZUvSnjfmtT
+DISCORDURL https://discord.gg/ZUvSnjfmtT
+DONATIONURL https://discord.gg/ZUvSnjfmtT
+GITHUBURL https://github.com/Pl3aseJust3ndMySuffering/RUTGMC
+BANAPPEALS https://discord.gg/ZUvSnjfmtT
 
 ## Uncomment to enable global ban DB using the provided URL. The API should expect to receive a ckey at the end of the URL.
 ## More API details can be found here: https://centcom.melonmesa.com
