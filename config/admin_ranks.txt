@@ -22,3 +22,8 @@ Name = Mentor
 Include = MENTOR COLOR
 Exclude =
 Edit =
+
+Name = ChiefOfDevelopment
+Include = EVERYTHING
+Exclude = AUTOADMIN
+Edit =
