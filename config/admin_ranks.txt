@@ -1,7 +1,22 @@
-Name = Admin
+Name = Host
 Include = EVERYTHING
+Exclude = AUTOADMIN
+Edit = 
+
+Name = ViceHost
+Include = EVERYTHING
+Exclude = AUTOADMIN
+Edit = 
+
+Name = GameAdmin
+Include = ADMIN BAN SPAWN POSSESS SERVER BUILD STEALTH
 Exclude =
-Edit = EVERYTHING
+Edit = 
+
+Name = Moderator
+Include = ADMIN STEALTH POSSESS
+Exclude = AUTOADMIN
+Edit = 
 
 Name = Mentor
 Include = MENTOR COLOR
